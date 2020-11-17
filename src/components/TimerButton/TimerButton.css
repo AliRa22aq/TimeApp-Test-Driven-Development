@@ -8,4 +8,5 @@
 
 .button-container:hover {
   cursor: pointer;
+  color: white;
 }
