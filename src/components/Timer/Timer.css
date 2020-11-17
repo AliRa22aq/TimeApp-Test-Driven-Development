@@ -1,11 +1,27 @@
 .timer-container {
-display: flex;
 }
 
 .time-display {
-
+    font-family: 'Share Tech Mono', monospace;
+    color: black;
+    text-align: center;
+    position: relative;
+	text-shadow: 0 0 20px rgba(10, 175, 230, 1),  0 0 20px rgba(10, 175, 230, 0);
+	padding-top: 15%;
+	font-size: 5rem;
 }
 
 .timer-button-container{
+
+    font-family: 'Share Tech Mono', monospace;
+    color: black;
+    text-align: center;
+	position: relative;
+	padding-top: 10%;
+	justify-content: space-around;
+	display: flex;
+	font-size: 2rem;
+  
+	
 
 }
